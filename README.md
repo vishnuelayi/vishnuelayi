@@ -1,4 +1,4 @@
-👋 Hello there! I'm Vishnu Elayi, a passionate MERN stack developer.
+👋 Hello, it's Vishnu Elayi, and I'm committed to mastering the MERN stack.
 
 ## About Me
 
