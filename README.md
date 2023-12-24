@@ -30,7 +30,7 @@ Let's connect and collaborate! You can reach me through:
 
 - Email: vishnuelayi@gmail.com
 - LinkedIn: linkedin.com/in/vishnuelayi
-- Twitter: @curlye97
+- Twitter: @vishnuelayi
 
 
 ## Open to Collaboration
