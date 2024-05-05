@@ -29,7 +29,7 @@ Here are the technologies I frequently work with:
 Let's connect and collaborate! You can reach me through:
 
 - Email: vishnuelayi@gmail.com
-- LinkedIn: linkedin.com/in/vishnuelayi
+- LinkedIn: [a link]( linkedin.com/in/vishnuelayi)
 - Twitter: @vishnuelayi
 
 
