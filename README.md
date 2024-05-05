@@ -16,7 +16,7 @@ Here are the technologies I frequently work with:
 - **Database**: MongoDB
 - **Version Control**: Git
 - **Deployment & Hosting**: Heroku, Netlify
-- **UI Frameworks**: Material-UI, Bootstrap
+- **UI Frameworks**: Material-UI, Bootstrap, Chakra UI, Tailwind CSS
 - **RESTful & API Integration**
 - **Authentication & Authorization**: JWT, OAuth
 - **Testing**: Mocha, Chai, Jest
