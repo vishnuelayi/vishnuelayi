@@ -1,4 +1,4 @@
-👋 Hello, it's Vishnu Elayi, and I'm committed to mastering the MERN stack.
+👋 Hello, it's Vishnu Elayi, and I'm driven to acquire comprehensive knowledge in software development.
 
 ## About Me
 
@@ -15,7 +15,7 @@ Here are the technologies I frequently work with:
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Version Control**: Git
-- **Deployment & Hosting**: Heroku, Netlify
+- **Deployment & Hosting**: Heroku, Netlify, Render
 - **UI Frameworks**: Material-UI, Bootstrap, Chakra UI, Tailwind CSS
 - **RESTful & API Integration**
 - **Authentication & Authorization**: JWT, OAuth
@@ -28,7 +28,7 @@ Here are the technologies I frequently work with:
 
 Let's connect and collaborate! You can reach me through:
 
-- Email: vishnuelayi@gmail.com
+- Email: vishnuelayi@outlook.com
 - LinkedIn: [linkedin.com/in/vishnuelayi](https://www.linkedin.com/in/vishnuelayi/)
 - Twitter: @vishnuelayi
 
