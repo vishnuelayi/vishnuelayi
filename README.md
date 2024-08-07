@@ -13,7 +13,7 @@ Here are the technologies I frequently work with:
 
 - **Frontend**: React, Redux, HTML5, CSS3, JavaScript
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: MongoDB, MySQL
 - **Version Control**: Git
 - **Deployment & Hosting**: Heroku, Netlify, Render
 - **UI Frameworks**: Material-UI, Bootstrap, Chakra UI, Tailwind CSS
